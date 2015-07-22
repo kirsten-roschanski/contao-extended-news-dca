@@ -2,3 +2,4 @@
 Aktuell stehen folgende Dinge bereit:
 
   - IDs bei den Nachrichten
+  - Individuelle Meta Description
