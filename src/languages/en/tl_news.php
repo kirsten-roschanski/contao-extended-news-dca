@@ -11,14 +11,10 @@
  * @copyright 2015
  */
 
-
-/**
- * Back end modules
- */
-$GLOBALS['TL_LANG']['MOD'][''] = array('', '');
-
-
-/**
- * Front end modules
- */
-$GLOBALS['TL_LANG']['FMD'][''] = array('', '');
+ /**
+  * Fields
+  */
+$GLOBALS['TL_LANG']['tl_news']['meta_description'] = array(
+  'Meta-Description',
+  'Replaces the automatically generated meta title with an individual one.'
+);

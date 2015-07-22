@@ -11,3 +11,8 @@
  * @copyright 2015
  */
 
+
+/**
+ * HOOKS
+ */
+$GLOBALS['TL_HOOKS']['generatePage'][] = array('KirstenRoschanski\NewsMetaDescription', 'addNewsMetaDescription');
